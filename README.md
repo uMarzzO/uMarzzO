@@ -1,4 +1,6 @@
-## Opa!! Muito prazer, meu nome é Bruno Marzano, mas pode me chamar de uMarzzO. Sou estudante de programação e tecnologia!
+# 👋🏽 Opa!! 
+## Muito prazer, meu nome é Bruno Marzano, mas pode me chamar de uMarzzO.
+### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
 
 ##
 
@@ -12,6 +14,7 @@
  ##
  
 <div style="display: inline_block"><br>
+ <h2>Aprendendo:</h2><br>
   <img align="center" alt="uMarzzO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="uMarzzO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="uMarzzO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
