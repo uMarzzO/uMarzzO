@@ -22,6 +22,7 @@
   <img align="center" alt="uMarzzO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="uMarzzO-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
+  <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
  <img align="right" alt="uMarzzO-pic" height="150" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/umarzzocertify.png">
 </div>
  
