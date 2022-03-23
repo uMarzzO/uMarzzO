@@ -1,5 +1,13 @@
-# 👋🏽 Opa!! 
-## Muito prazer, meu nome é Bruno Marzano, mas pode me chamar de uMarzzO.
+
+
+<div align='right'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=uMarzzO.visitor-badge"/></a>
+</div>
+
+<h1>&nbsp;<img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Olá,+Mundo!;Muito+prazer,+sou+o+Bruno+Marzano.;Mas+pode+me+chamar+de+uMarzzO!!;%7C"/></h1>
+
+<img align='right' src="" width="230">
+
 ### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
 
 ##
