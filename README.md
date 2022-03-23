@@ -1,9 +1,5 @@
 
 
-<div align='right'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=uMarzzO.visitor-badge"/></a>
-</div>
-
 <h1>&nbsp;<img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Olá,+Mundo!;Muito+prazer,+sou+o+Bruno+Marzano.;Mas+pode+me+chamar+de+uMarzzO!!;%7C"/></h1>
 
 <img align='right' src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzoworking.png" width="230">
