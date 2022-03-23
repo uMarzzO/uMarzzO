@@ -6,7 +6,7 @@
 
 <h1>&nbsp;<img src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Olá,+Mundo!;Muito+prazer,+sou+o+Bruno+Marzano.;Mas+pode+me+chamar+de+uMarzzO!!;%7C"/></h1>
 
-<img align='right' src="" width="230">
+<img align='right' src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzoworking.png" width="230">
 
 ### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
 
@@ -31,7 +31,7 @@
   <img align="center" alt="uMarzzO-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
   <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
- <img align="right" alt="uMarzzO-pic" height="150" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/umarzzocertify.png">
+ <img align="right" alt="uMarzzO-pic" height="150" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzocertify.png">
 </div>
  
  ##
