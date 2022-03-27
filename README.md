@@ -4,7 +4,7 @@
 
 <img align='right' src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzoworking.png" heigth="200" width="200">
 
-### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
+##### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
 
 ##
 
