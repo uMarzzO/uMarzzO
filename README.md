@@ -1,6 +1,6 @@
 
 
-<h1>&nbsp;<img  heigth="850px" width="850px" src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;Glad+to+meet+you.;I'm+Bruno+Marzano.;But+you+can+call+me+uMarzzO!!;%7C"/></h1>
+<h1>&nbsp;<img  heigth="850px" width="850px" src= "https://readme-typing-svg.herokuapp.com?color=0094F5&lines=👋🏾+Hello,+World!;Let+me+introduce+myself;I'm+Bruno+Marzano,;glad+to+meet+you.;But+you+can+call+me+uMarzzO!!;%7C"/></h1>
 
 <img align='right' src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzoworking.png" heigth="200" width="200">
 
