@@ -4,7 +4,14 @@
 
 <img align='right' src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzoworking.png" heigth="200" width="200">
 
-#### Sou graduado em Tecnologia em Gestâo Ambiental e, atualmente, curso Engenharia de Software. Paralelamente, estudo programação e tecnologia!
+### :warning: Important!
+
+- [x] :brazil: Brazilian
+- [x] :man_student: Graduated in Technology in Environmental Management
+- [x] :man_technologist: Graduating in Software Engineering
+- [x] :beetle: At the same time, programming and technology apprentice
+- [x] :male_detective: I'm looking for a job
+- [ ] :octocat: GitHub
 
 ##
 
