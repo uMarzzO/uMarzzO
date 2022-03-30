@@ -11,7 +11,7 @@
 - [x] :man_technologist: Graduating in Software Engineering
 - [x] :beetle: At the same time, programming and technology apprentice
 - [x] :male_detective: I'm looking for a job
-- [ ] :octocat: GitHub
+- [ ] :octocat: 
 
 ##
 
