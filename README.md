@@ -52,3 +52,4 @@
   ![Snake animation](https://github.com/uMarzzO/uMarzzO/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<!-- fonte dos icons :   https://github.com/devicons/devicon -->
