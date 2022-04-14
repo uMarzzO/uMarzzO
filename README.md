@@ -6,11 +6,11 @@
 
 ### :warning: Important!
 
-- [x] :brazil: Brazilian
-- [x] :man_student: Graduated in Technology in Environmental Management
-- [x] :man_technologist: Graduating in Software Engineering
-- [x] :beetle: At the same time, programming and technology apprentice
-- [x] :male_detective: I'm looking for a job
+- [x] :brazil: Brazilian;
+- [x] :man_student: Graduated in Technology in Environmental Management;
+- [x] :man_technologist: Graduating in Software Engineering;
+- [x] :beetle: At the same time, programming and technology apprentice;
+- [x] :male_detective: I'm looking for a job; e
 - [ ] :octocat: 
 
 ##
