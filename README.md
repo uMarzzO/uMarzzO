@@ -11,7 +11,8 @@
 - [x] :brazil: Brazilian;
 - [x] :man_student: Graduated in Technology in Environmental Management;
 - [x] :man_technologist: Graduating in Software Engineering;
-- [x] :beetle: At the same time, programming and technology apprentice;
+- [x] :lady_beetle: At the same time, programming and technology apprentice;
+- [ ] :spider_web: knowledge-seeker;
 - [x] :male_detective: I'm looking for a job; e
 - [ ] :octocat: 
 
