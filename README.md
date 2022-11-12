@@ -13,7 +13,7 @@
 - [x] :man_technologist: Graduating in Software Engineering;
 - [x] :lady_beetle: At the same time, programming and technology apprentice;
 - [x] :spider_web: knowledge-seeker;
-- [x] :male_detective: I'm looking for a job; e
+- [x] :male_detective: I'm looking for a job; and
 - [ ] :octocat: 
 
 ##
