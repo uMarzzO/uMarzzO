@@ -40,9 +40,9 @@
    <!--<img align="center" alt="uMarzzO-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">-->
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
   <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
-  <!--<img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+ <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
   <img align="center" alt="uMarzzO-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-   <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">-->
+   <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="uMarzzO-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="right" alt="uMarzzO-pic" width="180" height="180" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzocertify.png">
 </div>
