@@ -13,7 +13,7 @@
 - [x] :man_technologist: Graduating in Software Engineering;
 - [x] :lady_beetle: At the same time, programming and technology apprentice;
 - [x] :spider_web: knowledge-seeker;
-- [x] :male_detective: I'm looking for a job; and
+- [x] :male_detective: Freeler; and
 - [ ] :octocat: 
 
 ##
@@ -33,17 +33,18 @@
   <img align="center" alt="uMarzzO-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="uMarzzO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="uMarzzO-MD" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <br><br>
   <img align="center" alt="uMarzzO-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="uMarzzO-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="uMarzzO-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <!--   <img align="center" alt="uMarzzO-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
        <br><br>
-  <img align="center" alt="uMarzzO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="uMarzzO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">       -->
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
-  <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <!--      <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
  <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="uMarzzO-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <img align="center" alt="uMarzzO-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">   -->
    <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="uMarzzO-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <!--      <img align="center" alt="uMarzzO-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    -->
   <img align="right" alt="uMarzzO-pic" width="180" height="180" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzocertify.png">
 </div>
  
