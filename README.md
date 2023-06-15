@@ -40,16 +40,21 @@
   <img align="center" alt="uMarzzO-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <!--   <img align="center" alt="uMarzzO-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">       -->
     
-  <img align="center" alt="uMarzzO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
      <br><br>
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
-   <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <h2>:desktop_computer: Focus:</h2><br> 
+  <!--      <br><br>  -->
+  
+  
+  <img align="center" alt="uMarzzO-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <!--     <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"> -->
-     <br><br>
-  <img align="center" alt="uMarzzO-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
+  <!--     <br><br> -->
+  <!--     <img align="center" alt="uMarzzO-GO" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> -->
         <br><br>
-  <h2>:desktop_computer: Focus:</h2><br>
-  <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+  <!--      <h2>:desktop_computer: Focus:</h2><br>    -->
+  <!--      <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">    -->
   <!--      <img align="center" alt="uMarzzO-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    -->
   <img align="right" alt="uMarzzO-pic" width="180" height="180" style="border-radius:50px;" src="https://github.com/uMarzzO/uMarzzO/blob/main/pictures/umarzzocertify.png">
 </div>
