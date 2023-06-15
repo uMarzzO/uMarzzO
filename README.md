@@ -41,7 +41,7 @@
   <!--   <img align="center" alt="uMarzzO-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">       -->
     
 
-     <br><br>
+  <!--      <br><br>  -->
   <img align="center" alt="uMarzzO-Arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"> 
   <img align="center" alt="uMarzzO-RaspberryPi" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
   <h2>:desktop_computer: Focus:</h2><br> 
