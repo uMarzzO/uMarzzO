@@ -11,7 +11,7 @@
 - [x] :brazil: Brazilian;
 - [x] :man_student: Hold a degree in Technology in Environmental Management;
 - [x] :man_technologist: College student of Software Engineering;
-- [x] :bow: Graduate student in Software Development with Python;
+- [x] :bow: Graduated in Software Development with Python;
 - [x] :cricket: At the same time, programming and technology apprentice;
 - [x] :spider_web: knowledge-seeker;
 - [x] :male_detective: Freeler; and
