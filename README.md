@@ -1,6 +1,6 @@
 
 
-<h1>&nbsp;<img  heigth="850px" width="850px" src= "https://readme-typing-svg.herokuapp.com?color=F75600FF&lines=🤬+Hell+No!!+🪲;Actually...;💻print('Hello,+World!');Let+me+introduce+myself.;I'm+Bruno+Marzano,;glad+to+meet+you.;But+you+can+call+me+uMarzzO!!;%7C"/></h1>
+<h1>&nbsp;<img  heigth="850px" width="850px" src= "https://readme-typing-svg.herokuapp.com?color=F75600FF&lines=🤬+Hell+No!!+🪲;Actually...;💻;>>>+print('Hello,+World!');Let+me+introduce+myself.;I'm+Bruno+Marzano,;glad+to+meet+you.;But+you+can+call+me+uMarzzO!!;%7C"/></h1>
 
 <!--  Import this  -->
 <!--https://readme-typing-svg.herokuapp.com/demo/-->
@@ -56,7 +56,7 @@
   <!--     <img align="center" alt="uMarzzO-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"> -->
   <!--     <br><br> -->
   
-        <br><br>
+  <!--     <br><br>  -->
   <!--      <h2>:desktop_computer: Focus:</h2><br>    -->
   <!--      <img align="center" alt="uMarzzO-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">    -->
   <!--      <img align="center" alt="uMarzzO-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">    -->
@@ -64,8 +64,7 @@
 </div>
  
  ##
- 
- ##
+ <h3>&nbsp;<img  heigth="450px" width="450px" src= "https://readme-typing-svg.herokuapp.com?color=F75600FF&lines=Bye!;>>>+import+this;...;%7C"/></h3>
  
 <div> 
  
