@@ -28,8 +28,6 @@
 </div>
  
  ##
-   
- ##
 <div style="display: inline_block"><br>
  <h2>:computer: Learning:</h2><br>
   
